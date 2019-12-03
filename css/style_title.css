@@ -1,0 +1,144 @@
+
+
+.title_section .cta-title {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.title_section .cta-text {
+  color: #fff;
+}
+
+.title_section .cta-btn {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 25px;
+  transition: background 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.title_section .cta-btn:hover {
+  background: #1dc8cd;
+  border: 2px solid #1dc8cd;
+}
+
+
+
+
+
+
+.title_section .epigraf {
+	padding-top: 50px;
+	color: #fff;
+	text-align: right;
+}
+
+.title_section h2 {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.title_section h3 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.title_section h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 0;
+}
+
+
+
+#title_def h2,
+#title_def h3,
+#title_def h4,
+#title_def p {
+	color: #444;
+	}
+
+.title_section {
+	overflow: hidden;
+	padding: 64px 32px;
+	min-height: 400px;
+}
+
+#title_history {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/01.jpg) fixed center center;
+  background-size: cover;
+}
+
+#title_rhistory {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/03.jpg) fixed center center;
+  background-size: cover;
+}
+
+#title_present {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/06.png) fixed center center;
+  background-size: cover;
+}
+
+#title_stages {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/14.jpg) fixed center center;
+  background-size: cover;
+}
+
+#title_types {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/07.jpg) fixed center center;
+  background-size: cover;
+}
+
+#title_manipulation {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/09.jpg) fixed center center;
+  background-size: cover;
+}
+
+#title_practice {
+  background:
+	linear-gradient(
+		rgba(170, 140, 100, 0.5),
+		rgba(200, 220, 130, 0.2)
+		),
+	url(../images/10.jpg) fixed center center;
+  background-size: cover;
+}
